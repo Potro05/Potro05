@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Potro05
+- 👀 I'm interested in digital topics especially computer programming
+- 🌱 I’m currently learning JavaScript, python and C++
+- 💞️ I’m looking to collaborate with all computer code enthusiasts 
+- 📫 How to reach me? ghislainarno@yahoo.fr
